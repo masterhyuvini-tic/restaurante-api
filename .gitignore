@@ -1,0 +1,16 @@
+# Dependencias de Node.js
+node_modules/
+
+# Variables de entorno (contraseñas — NUNCA a GitHub)
+.env
+
+# Archivos del sistema Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Carpeta de VS Code
+.vscode/
