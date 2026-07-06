@@ -14,3 +14,4 @@ npm-debug.log*
 
 # Carpeta de VS Code
 .vscode/
+/src/generated/prisma
